@@ -1,2 +1,1 @@
-"# Kopi-Kuy" 
-"# Kopi-Kuyy" 
+"Kopi-Kuy" 
